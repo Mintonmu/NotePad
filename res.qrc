@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/newfile1.ico</file>
+        <file>image/newfile2.ico</file>
+        <file>image/openfile.ico</file>
+        <file>image/save as.ico</file>
+        <file>image/save.ico</file>
+        <file>image/Cancel.ico</file>
+        <file>image/copy.ico</file>
+        <file>image/cut.ico</file>
+        <file>image/exit.ico</file>
+        <file>image/restore.ico</file>
+        <file>image/paste.ico</file>
+        <file>image/open.png</file>
+        <file>image/newifile.ico</file>
+        <file>image/next.ico</file>
+        <file>image/prev.ico</file>
+    </qresource>
+</RCC>
