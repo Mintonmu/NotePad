@@ -10,6 +10,5 @@
   * 窗口之间的移动
   * 窗口平铺
   * 窗口层叠
-  
-**** This Notepad Programming designd by MinTon
+  #### This Notepad Programming designd by MinTon
   
